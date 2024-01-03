@@ -21,7 +21,28 @@
 5. **أنواع الأعشاب:**
    - يوفر معلومات حول الفوائد الصحية لمختلف أنواع الأعشاب.
 
+**Application overview:**
+ The “Health Benefits” application is a simple application that aims to provide valuable information about the health benefits of adopting healthy lifestyle habits, focusing on types of fruits, types of meat, types of exercise, types of herbs, and types of vegetables.
 
+ **the target audience:**
+ The app targets individuals seeking to improve their healthy lifestyle and gain a deeper understanding of the health benefits of exercise and food.
+
+ **Main Features:**
+ 1. **Healthy habits:**
+    - Provides advice and information about daily healthy habits and their positive impact on public health.
+
+ 2. **Types of fruits and vegetables:**
+    - Provides a comprehensive understanding of the health benefits of various types of fruits and vegetables.
+
+ 3. **Types of meat:**
+    - Reviews the benefits of eating various types of meat and their role in improving health.
+
+ 4. **Types of exercises:**
+    - Provides a variety of exercises and explains their benefits on physical fitness.
+
+ 5. **Types of herbs:**
+    - Provides information about the health benefits of various types of herbs.
+    
 # Screens
 ![1](https://github.com/abdallah011588/Healthy_life/assets/88535699/02d1f80b-3d1d-4492-9369-d1f24e424426)
 ![2](https://github.com/abdallah011588/Healthy_life/assets/88535699/a8882ad4-6d2b-442d-9e58-acf2e4c0e96c)
